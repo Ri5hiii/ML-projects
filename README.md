@@ -72,13 +72,6 @@ This repository contains a collection of **Machine Learning and Deep Learning pr
 
 ---
 
-## 🎥 Demo (Optional)
-> 👉 Replace this with your actual demo video/GIF
-
-![Demo GIF](https://via.placeholder.com/800x400.gif?text=Project+Demo)
-
----
-
 ## 👨‍💻 Team Members
 
 - **Rishikesh Barkade** – 0801IT231104  
