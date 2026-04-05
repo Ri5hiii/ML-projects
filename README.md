@@ -1,94 +1,116 @@
-# ML-projects
-Machine Learning Projects covering Image, Video, Audio, Text, and Numerical data using ML &amp; Deep Learning models with GUI-based implementation.
-# Machine Learning Projects Collection
+# 🚀 Machine Learning & Deep Learning Projects Portfolio
 
-## 📌 Overview
-This repository contains multiple Machine Learning and Deep Learning projects based on different data types including Image, Video, Audio, Text, and Numerical data.
-
-Each project demonstrates complete pipeline implementation including data preprocessing, feature extraction, model training, evaluation, and GUI-based testing.
-
----
-
-## 🚀 Projects Included
-
-### 1. 🖼️ Image Classification (Garbage Classification)
-- Classifies waste into categories like cardboard, glass, metal, paper, plastic, and trash
-- Models Used:
-  - CNN
-  - MobileNetV2 (Transfer Learning)
-- Best Accuracy: ~82%
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?logo=opencv)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
 
 ---
 
-### 2. 🎥 Video Classification (Fall Detection)
-- Detects fall events from video data for healthcare/surveillance
-- Process:
-  - Video → Frame Extraction → CNN Classification
-- Model Used:
-  - Convolutional Neural Network (CNN)
+## 📌 About This Repository
+This repository contains a collection of **Machine Learning and Deep Learning projects** developed at **SGSITS Indore**, focusing on real-world applications in:
+- Healthcare 🏥  
+- Computer Vision 👁️  
+- Audio Processing 🎧  
 
 ---
 
-### 3. 🔊 Audio Classification (Cough Detection)
-- Classifies cough vs non-cough audio signals
-- Models Used:
-  - SVM (MFCC features)
-  - CNN (Spectrogram images)
-- Accuracy:
-  - SVM: ~77%
-  - CNN: ~74%
+## 📂 Projects Overview
+
+### ♻️ Garbage Image Classification
+![Garbage Demo]
+
+- CNN & MobileNetV2 based classification  
+- Accuracy: **~85–88%**  
+- Smart waste segregation system  
 
 ---
 
-### 4. 📝 Text Classification (Language Detection)
-- Classifies text into multiple languages
-- Models Used:
-  - Logistic Regression
-  - Linear SVM
-- Best Accuracy: 100% (SVM)
+### 🎥 Fall Detection System
+![Fall Detection]
+
+- Video classification using CNN & EfficientNet  
+- Accuracy: **~91%**  
+- Useful for elderly monitoring  
 
 ---
 
-### 5. 📊 Numerical Data (Heart Disease Prediction)
-- Predicts heart disease based on medical features
-- Models Used:
-  - Logistic Regression
-  - Random Forest
-- Best Accuracy: ~94% (Random Forest)
+### ❤️ Heart Disease Prediction
+![Heart Prediction]
+
+- ML models: Logistic Regression, SVM, Random Forest  
+- Best Accuracy: **~94% (Random Forest)**  
+- Healthcare decision support system  
 
 ---
 
-## 🧠 Common Workflow
-- Data Collection
-- Data Preprocessing
-- Feature Extraction
-- Train-Test Split
-- Model Training
-- Evaluation (Accuracy, Precision, Recall, F1-score)
-- Prediction
+### 🎧 Cough Audio Classification
+![Cough Detection]
+
+- MFCC + SVM & CNN (Spectrogram)  
+- Accuracy: **~89%**  
+- Respiratory disease detection  
 
 ---
 
-## 💻 Technologies Used
-- Python
-- Scikit-learn
-- TensorFlow / Keras
-- OpenCV
-- Librosa
-- Streamlit (GUI)
+### 🔤 Text Detection System
+![Text Detection]
+
+- Detects and extracts text from images  
+- Useful for OCR & document automation  
 
 ---
 
-## 📂 Features
-- Multiple ML & DL models implementation
-- Model comparison and evaluation
-- GUI-based testing system
-- Real-world problem solving
+## 🧠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit)
+![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas)
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
+## 🎥 Demo (Optional)
+> 👉 Replace this with your actual demo video/GIF
+
+![Demo GIF](https://via.placeholder.com/800x400.gif?text=Project+Demo)
+
+---
+
+## 👨‍💻 Team Members
+
+- **Rishikesh Barkade** – 0801IT231104  
+- **Sakshi Baghel** – 0801IT231110  
+- **Sangeeta Dhurve** – 0801IT231114  
+
+---
+
+## 🎓 Mentors
+
+- **Dr. K. K. Sharma**  
+  HOD, Dept. of IT, SGSITS  
+
+- **Dr. Upendra Singh**  
+  Asst. Professor, Dept. of IT, SGSITS  
+
+- **Dr. Lalit Purohit**  
+  Dean, SGSITS Indore  
+
+- **Mr. Akshay Gupta**  
+  Asst. Professor, Dept. of IT, SGSITS  
+
+---
+
+## 🏫 Institution
+**Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore**
+
+---
+
+## ⭐ Final Note
+This repository showcases practical implementation of ML & DL across multiple domains with strong emphasis on real-world applications, model comparison, and deployment.
+
+---
+
+⭐ **If you like this work, don't forget to star the repo!**
