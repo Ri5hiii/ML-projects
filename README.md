@@ -1,4 +1,4 @@
-# 🚀 Machine Learning & Deep Learning Projects Portfolio
+# 🚀 Machine Learning & Deep Learning Projects
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
