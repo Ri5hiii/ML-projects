@@ -1,4 +1,4 @@
-# 📌 Project 1: Garbage Image Classification
+# 📌 Project 5: Garbage Image Classification
 
 ## 🔹 Description
 This project focuses on automated garbage classification using deep learning and machine learning techniques to improve waste management systems. The model classifies garbage images into six categories: cardboard, paper, glass, plastic, metal, and trash, enabling efficient and accurate waste segregation.
